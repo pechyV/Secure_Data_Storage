@@ -3,6 +3,7 @@ Repo for a MPC-KRY project. Client-Server secured data storage with two factor a
 TODO: file explorer for and TLS implementation.
 
 ![block schematic](/images/scheme.png)
+![terminal](/images/example.png)
 ## Linux version Requirements
 
 ### Python 3.13.2 
